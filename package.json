@@ -1,5 +1,5 @@
 {
-  "name": "fis-postprocessor-replace",
+  "name": "fis-postprocessor-replace_huya",
   "version": "1.0.0",
   "description": "fis replace plugin",
   "main": "index.js",
@@ -15,7 +15,7 @@
     "replace"
   ],
   "author": {
-    "name": "xiejinlong"
+    "name": "ganxietx"
   },
   "license": "MIT",
   "bugs": {

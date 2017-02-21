@@ -1,11 +1,11 @@
 ### 本插件将会根据配置替换字符串，适用于打包规则
 
 
-	npm install fis-postprocessor-replace -g
+	npm install fis-postprocessor-replace_huya -g
 
 fis-conf
 
-	configData.settings.postprocessor.replace = {
+	configData.settings.postprocessor.replace_huya = {
 	    files: [
 	        {
 	            reg: /^\/assets\/((.*)\.js)$/i,
