@@ -11,4 +11,4 @@ fis-conf
 	    }
 	}
 
-这样配置的话，将在编译阶段根据正则替换`/^\/assets\/((.*)\.js)$/i `对应的`{api-url}
+这样配置的话，将在编译阶段根据正则替换`{api-url} `对应的`/json/login.json
